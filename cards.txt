@@ -1,0 +1,123 @@
+Green Prototypes
+Lawless Herd
+Northsea Dog
+First Mutineer
+Gifted Recruits
+Summon Militia
+Brothers in Arms
+Collector Mirz
+Felflares
+Fort of Ebonrock
+Freebooters
+Potion of Strength
+Westward Sailors
+Cabin Girls
+Confinement
+Emerald Towers
+Execution
+Goldgrubbers
+Personal Servers
+Siegebreakers
+Snowmasons
+Warfront Runners
+Bladestorm
+Bluesail Raiders
+Heroic Soldiers
+Kindred's Grace
+Needle Blast
+Trueshot Post
+Ubass the Hunter
+Voidsurgers
+Boomstick Officers
+Flooding the Gates
+Hearthguards
+Lich Summoners
+Lucky Charmers
+Tegor the Vengeful
+Victors of the Melee
+Archdruid Earyn
+Avian Stalkers
+Call for Aid
+Salty Outcasts
+Sharpfist Exiles
+Veterans of War
+Joust Champion
+Temple Guardians
+Crazy Bombers
+Siren of the Seas
+#--Swarm of the East Cards--#
+Restless Goats
+Shady Ghoul
+Broken Truce
+Counsellor Ahmi
+Doppelbocks
+Forgotten Souls
+Moonlit Aerie
+Pan Heralds
+Swarm Callers
+Devastators
+Mischiefs
+Dreadfauns
+Grim Couriers
+Pillars of Doom
+Dark Harvest
+Herald's Hymn
+Queen of Herds
+Vindicators
+#--Winter Pact Cards--#
+Frosthexers
+Icicle Burst
+Midwinter Chaos
+Mystwives
+The Hearth
+Wisp Cloud
+Frozen Core
+Lady Rime
+Moment's Peace
+Rimelings
+Rockworkers
+Dawnsparks
+Gift of the Wise
+Wolfcloaks
+Calming Spirits
+Fleshmenders
+Olf the Hammer
+Chillbeards
+#--Ironclad Union Cards--#
+Destructobots
+Doctor Mia
+Ozone Purifiers
+Finite Loopers
+Upgrade Point
+Boosting Elixir
+Chaotic Pupil
+Linked Golems
+Mech Workshop
+Overchargers
+Debug Loggers
+Flaming Stream
+Delegators
+Fortification Tonic
+Project PH03-NIX
+Siege Assembly
+Windmakers
+Armed Schemers
+#--Tribes of Shadowfen Cards--#
+Toxic Sacrifice
+Copperskin Ranger
+Dubious Hags
+Azure Hatchers
+Brood Sage
+Harpies of the Hunt
+Rain of Frogs
+Crimson Sentry
+Marked as Prey
+Venomfall Spire
+Witches of the Wild
+Amberhides
+Feral Shamans
+Soulcrushers
+Blood Ministers
+Tode the Elevated
+High Priestess Klaxi
+Curse of Strings
